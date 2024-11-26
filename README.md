@@ -45,7 +45,8 @@ Notas
 ![Captura desde 2024-11-26 19-36-14](https://github.com/user-attachments/assets/2fc64a9e-9f22-40ab-a1c9-4254e1a2b554)
 
 
-[![Ver el video](https://i.vimeocdn.com/video/1954824526-011d8d66f9fd83b72ab43fdbf90d7d2c41af78425c1a5eec15d8f199a5524748-d_295x166?r=pad)]((https://vimeo.com/1033662102/ff2239574f?share=copy))
+
+[Ver el video en Vimeo](https://vimeo.com/1033662102/ff2239574f?share=copy)
 
 
 
