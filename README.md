@@ -45,10 +45,10 @@ Notas
 ![Captura desde 2024-11-26 19-36-14](https://github.com/user-attachments/assets/2fc64a9e-9f22-40ab-a1c9-4254e1a2b554)
 
 
+[Ver el video aquí](https://vimeo.com/1033662102/ff2239574f?share=copy)
 
 
 
-https://github.com/user-attachments/assets/ba276477-4252-4e4d-bf50-45c6b08b245e
 
 
 
