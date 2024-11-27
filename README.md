@@ -7,7 +7,7 @@ Características
     Power-ups: El jugador puede recoger power-ups que le otorgan beneficios como vidas extra, invulnerabilidad o potenciadores de ataque.
     Guardado y carga de partidas: Los jugadores pueden guardar su progreso y cargarlo en una sesión futura.
     Niveles y enemigos: El jugador enfrenta a diferentes tipos de enemigos que se vuelven más difíciles a medida que avanza.
-    Pantalla de Game Over y mensajes: El juego tiene pantallas para cuando el jugador pierde o completa un nivel.
+    Pantalla de Game Over y mensajes: El juego tiene pantallas para cuando el jugador gana el juego, pierde o completa un nivel.
     
 Uso
 
