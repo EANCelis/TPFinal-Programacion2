@@ -26,7 +26,7 @@ Uso
         
 Estructura del Código
 
-Este repositorio contiene el código fuente principal del juego. A continuación se detalla la estructura de algunos archivos clave:
+Este repositorio contiene el código fuente del juego desarrollado como parte de un proyecto para **Programación 2** en la **UTN FRGP**. A continuación se detalla la estructura de algunos archivos clave:
 
     Gameplay.cpp: Contiene la lógica principal del juego, incluyendo la detección de colisiones entre proyectiles, enemigos y el jugador, así como la gestión de puntuaciones y vidas.
     Jugador.cpp: Define la clase del jugador, incluyendo su movimiento, disparos y vida.
