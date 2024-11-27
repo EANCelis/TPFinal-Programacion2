@@ -1,6 +1,6 @@
 # Juego 2D: Galactic Defenders | Proyecto UTN FRGP
 
-Galactic Defender es un juego de disparos 2D donde el jugador controla una nave espacial para destruir enemigos y evitar que se acerquen. El objetivo es sobrevivir a los ataques enemigos mientras recoges potenciadores y aumentas tu puntaje. El juego incluye múltiples niveles, power-ups, y la posibilidad de guardar y cargar el progreso.
+**Galactic Defender** es un juego de disparos 2D, desarrollado como parte de un proyecto para **Programación 2** en la **UTN FRGP**, donde el jugador controla una nave espacial para destruir enemigos y evitar que se acerquen. El objetivo es sobrevivir a los ataques enemigos mientras recoges potenciadores y aumentas tu puntaje. El juego incluye múltiples niveles, power-ups, y la posibilidad de guardar y cargar el progreso.
 
 Características
 
@@ -26,7 +26,7 @@ Uso
         
 Estructura del Código
 
-Este repositorio contiene el código fuente del juego desarrollado como parte de un proyecto para **Programación 2** en la **UTN FRGP**. A continuación se detalla la estructura de algunos archivos clave:
+Este repositorio contiene el código fuente del juego. A continuación se detalla la estructura de algunos archivos clave:
 
     Gameplay.cpp: Contiene la lógica principal del juego, incluyendo la detección de colisiones entre proyectiles, enemigos y el jugador, así como la gestión de puntuaciones y vidas.
     Jugador.cpp: Define la clase del jugador, incluyendo su movimiento, disparos y vida.
