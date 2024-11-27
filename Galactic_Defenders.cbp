@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Galactic_Defenders" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Galactic_Defenders" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="sfml-graphics" />
+					<Add library="sfml-window" />
+					<Add library="sfml-system" />
+					<Add library="sfml-audio" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Galactic_Defenders" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="sfml-graphics" />
+					<Add library="sfml-window" />
+					<Add library="sfml-system" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="0.png" />
+		<Unit filename="2.png" />
+		<Unit filename="3B.png" />
+		<Unit filename="6.png" />
+		<Unit filename="Alien-Enemy.png" />
+		<Unit filename="Alien-Scout.png" />
+		<Unit filename="Boss.cpp" />
+		<Unit filename="Boss.h" />
+		<Unit filename="Boss.png" />
+		<Unit filename="Colisionable.cpp" />
+		<Unit filename="Colisionable.h" />
+		<Unit filename="Enemigo.cpp" />
+		<Unit filename="Enemigo.h" />
+		<Unit filename="EnemigoKamikaze.cpp" />
+		<Unit filename="EnemigoKamikaze.h" />
+		<Unit filename="EnemigoTipo1.cpp" />
+		<Unit filename="EnemigoTipo1.h" />
+		<Unit filename="Erikoji Demo.otf" />
+		<Unit filename="EstadoDeJuego.cpp" />
+		<Unit filename="EstadoDeJuego.h" />
+		<Unit filename="Fondo.cpp" />
+		<Unit filename="Fondo.h" />
+		<Unit filename="Galactic Defenders - Logo.jpeg" />
+		<Unit filename="Game Creepy.otf" />
+		<Unit filename="Gameplay.cpp" />
+		<Unit filename="Gameplay.h" />
+		<Unit filename="Inicio-Sound.ogg" />
+		<Unit filename="Inicio.cpp" />
+		<Unit filename="Inicio.h" />
+		<Unit filename="Jugador.cpp" />
+		<Unit filename="Jugador.h" />
+		<Unit filename="Menu-Select.wav" />
+		<Unit filename="Menu.cpp" />
+		<Unit filename="Menu.h" />
+		<Unit filename="Midnight Brush.ttf" />
+		<Unit filename="PowerUp.cpp" />
+		<Unit filename="PowerUp.h" />
+		<Unit filename="Proyectil.cpp" />
+		<Unit filename="Proyectil.h" />
+		<Unit filename="Selected-Item.wav" />
+		<Unit filename="armadura.png" />
+		<Unit filename="ataque.png" />
+		<Unit filename="bg.jpg" />
+		<Unit filename="cb.bmp" />
+		<Unit filename="corazon.png" />
+		<Unit filename="file.jpg" />
+		<Unit filename="file2.png" />
+		<Unit filename="laserBullet.png" />
+		<Unit filename="laserBulletEnemy.png" />
+		<Unit filename="main.cpp" />
+		<Unit filename="partidas.dat" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
