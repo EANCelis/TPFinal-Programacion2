@@ -1,6 +1,6 @@
 # Juego 2D: Galactic Defenders | Proyecto UTN FRGP
 
-**Galactic Defender** es un juego de disparos 2D, desarrollado como parte de un proyecto para **Programación 2** en la **UTN FRGP**, donde el jugador controla una nave espacial para destruir enemigos y evitar que se acerquen. El objetivo es sobrevivir a los ataques enemigos mientras recoges potenciadores y aumentas tu puntaje. El juego incluye múltiples niveles, power-ups, y la posibilidad de guardar y cargar el progreso.
+**Galactic Defenders** es un juego de disparos 2D, desarrollado como parte de un proyecto para **Programación 2** en la **UTN FRGP**, donde el jugador controla una nave espacial para destruir enemigos y evitar que se acerquen. El objetivo es sobrevivir a los ataques enemigos mientras recoges potenciadores y aumentas tu puntaje. El juego incluye múltiples niveles, power-ups, y la posibilidad de guardar y cargar el progreso.
 
 Características
 
